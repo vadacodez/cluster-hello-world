@@ -1,2 +1,2 @@
 # cluster-hello-world
-Node.js Cluster Demo
+Node.js Cluster Hello World
